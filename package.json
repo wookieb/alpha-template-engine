@@ -1,6 +1,6 @@
 {
   "name": "alpha-template-engine",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Interface for template engines",
   "main": "TemplateEngine.js",
   "types": "TemplateEngine.d.ts",
