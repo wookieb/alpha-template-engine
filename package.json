@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Interface for template engines",
   "main": "TemplateEngine.js",
+  "types": "TemplateEngine.d.ts",
   "scripts": {
     "prepublish": "tsc"
   },
