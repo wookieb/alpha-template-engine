@@ -1,0 +1,29 @@
+{
+  "name": "alpha-template-engine",
+  "version": "1.0.0",
+  "description": "Interface for template engines",
+  "main": "TemplateEngine.js",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wookieb/alpha-template-engine.git"
+  },
+  "keywords": [
+    "alpha",
+    "packages",
+    "template",
+    "engine",
+    "alpha-packages"
+  ],
+  "author": "Łukasz Kużyński <lukasz.kuzynski@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wookieb/alpha-template-engine/issues"
+  },
+  "homepage": "https://github.com/wookieb/alpha-template-engine#readme",
+  "devDependencies": {
+    "typescript": "^2.2.2"
+  }
+}
